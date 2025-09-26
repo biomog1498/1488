@@ -1100,3 +1100,24 @@
     #app-mount .contentWrapper__08434 .result__2dc39[style*="background-color: var(--premium-tier-1"] {background-color: var(--primary3-colour)!important;}
     #app-mount .contentWrapper__08434 .result__2dc39[style*="background-color: rgb(146, 154, 250);"] {background-color: var(--primary2-colour)!important}
 
+/*TopBar*/ 
+    #app-mount .title_c38106::before {
+        content: "GGO Kirito v1.4.0 By VaporousCreeper";
+        color: rgb(255,255,255,0.5);
+        font-weight: 500;
+
+        position: left;
+        margin-right: 10px;
+    }
+    #app-mount .title_c38106 {
+        background-color: var(--secondary3-colour);
+        border-bottom: 3px solid var(--primary3-colour)
+    }
+
+английский
+primary3
+РУССКИЙ
+первичный3
+
+НАСТРОЙКИ РАСШИРЕНИЯЕЩЁ »
+
